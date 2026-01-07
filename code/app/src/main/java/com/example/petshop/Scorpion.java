@@ -16,6 +16,3 @@ public class Scorpion extends Pet{
         return "hiss";
     }
 }
-
-
-}
