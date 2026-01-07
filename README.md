@@ -2,7 +2,7 @@
 
 ## Student Details
 
-- **Full Name:** `Mohammad Faiz Zakir Malik`
+- **Full Name:** `Faiz Malik`
 - **CCID:** `mmalik6`
 
 ## References and Resources
