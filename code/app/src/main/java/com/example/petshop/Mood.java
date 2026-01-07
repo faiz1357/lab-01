@@ -20,5 +20,6 @@ public abstract class Mood {
     public void setDate(Date date) {
         this.moodDate = date;
     }
+    public abstract String vibes();
 }
 

@@ -6,7 +6,7 @@ public class Happy extends Mood{
     public Happy(Date date) {
         super(date);
     }
-    public String speak(){
+    public String vibes(){
         return ":(";
     }
 }

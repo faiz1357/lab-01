@@ -7,7 +7,7 @@ public class Sad extends Mood{
     public Sad(Date date) {
         super(date);
     }
-    public String speak(){
+    public String vibes(){
         return ":(";
     }
 
